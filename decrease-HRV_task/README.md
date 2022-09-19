@@ -6,6 +6,10 @@ It is a c# Window Form Project for Pilot study on HRV.
 
 The study includes Emotion and Cognition Lab and SAIL Lab at USC and other parties.
 
-written by Tiantian Feng, tiantiaf@usc.edu
 
-copied from https://github.com/EmotionCognitionLab/emWave_HRV
+
+Description
+
+1. : code written by Tiantian Feng, tiantiaf@usc.edu, copied from https://github.com/EmotionCognitionLab/emWave_HRV
+
+2. setup_package: intaller+instruction
