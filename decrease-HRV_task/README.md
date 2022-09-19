@@ -10,6 +10,6 @@ The study includes Emotion and Cognition Lab and SAIL Lab at USC and other parti
 
 Description
 
-1. : code written by Tiantian Feng, tiantiaf@usc.edu, copied from https://github.com/EmotionCognitionLab/emWave_HRV
+1. emwave_pulse_PC_App: codes written by Tiantian Feng, tiantiaf@usc.edu, copied from https://github.com/EmotionCognitionLab/emWave_HRV
 
 2. setup_package: intaller+instruction
