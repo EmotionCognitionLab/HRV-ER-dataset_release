@@ -1,0 +1,10 @@
+G:\GitHub_Code\emwave_pulse_PC_App\emwave_pulse_PC_App\emwave_pulse_PC_App\bin\Debug\emwave_pulse_PC_App.exe
+G:\GitHub_Code\emwave_pulse_PC_App\emwave_pulse_PC_App\emwave_pulse_PC_App\bin\Debug\emwave_pulse_PC_App.pdb
+G:\GitHub_Code\emwave_pulse_PC_App\emwave_pulse_PC_App\emwave_pulse_PC_App\obj\x86\Debug\emwave_pulse_PC_App.emwave_app.resources
+G:\GitHub_Code\emwave_pulse_PC_App\emwave_pulse_PC_App\emwave_pulse_PC_App\obj\x86\Debug\emwave_pulse_PC_App.Properties.Resources.resources
+G:\GitHub_Code\emwave_pulse_PC_App\emwave_pulse_PC_App\emwave_pulse_PC_App\obj\x86\Debug\emwave_pulse_PC_App.csproj.GenerateResource.Cache
+G:\GitHub_Code\emwave_pulse_PC_App\emwave_pulse_PC_App\emwave_pulse_PC_App\obj\x86\Debug\emwave_pulse_PC_App.exe
+G:\GitHub_Code\emwave_pulse_PC_App\emwave_pulse_PC_App\emwave_pulse_PC_App\obj\x86\Debug\emwave_pulse_PC_App.pdb
+G:\GitHub_Code\emwave_pulse_PC_App\emwave_pulse_PC_App\emwave_pulse_PC_App\bin\Debug\emwave_pulse_PC_App.exe.config
+G:\GitHub_Code\emwave_pulse_PC_App\emwave_pulse_PC_App\emwave_pulse_PC_App\bin\Debug\ZedGraph.dll
+G:\GitHub_Code\emwave_pulse_PC_App\emwave_pulse_PC_App\emwave_pulse_PC_App\obj\x86\Debug\emwave_pulse_PC_App.csprojResolveAssemblyReference.cache
