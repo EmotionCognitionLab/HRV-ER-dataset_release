@@ -3,6 +3,8 @@
 #cnr_euler_number_calculation.sh
 #for Freesurfer processing and calculates binary flags for the euler number and cnr subcategories
 
+#adopted from https://github.com/PennBBL/conte/tree/master/freesurfer
+## modified by Hyun Joo Yoo, hyunjooy@usc.edu, 08/22/2020
 ############################################
 ###########DATA PREP########################
 
