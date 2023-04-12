@@ -8,7 +8,7 @@ export LD_PRELOAD=/usr/local/gcc-7.2.0/lib64/libstdc++.so.6
 #Previous BBL scripts to calculate cnr only pulled the total cnr, in this script we pull total, gray/csf for left and right hemispheres and gray/white for both hemispheres in addition to calculating the euler number (tells how many holes/defects are in the surface) as is done in the methods of the Chalavi, et al paper
 
 
-
+#adopted from https://github.com/PennBBL/conte/tree/master/freesurfer
 ## modified by Hyun Joo Yoo, hyunjooy@usc.edu, 08/22/2020
 
 
